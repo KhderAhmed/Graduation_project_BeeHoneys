@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bee Honey</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-50 text-gray-900">
+<!-- Navbar -->
+<nav class="bg-green-700 p-4 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+        <a href="#" class="text-white text-2xl font-extrabold tracking-wide">Bee Honey</a>
+        <ul class="flex space-x-6 text-white font-medium">
+            <li><a href="index.html" class="hover:text-yellow-200">Home</a></li>
+            <li><a href="about.html" class="hover:text-yellow-200">About</a></li>
+            <li><a href="services.html" class="hover:text-yellow-200">Services</a></li>
+            <li><a href="products.html" class="hover:text-yellow-200">Products</a></li>
+            <li><a href="home.html" class="hover:text-yellow-200">Home</a></li>
+            <li><a href="category.html" class="hover:text-yellow-200">Category</a></li>
+            <li><a href="welcome.html" class="hover:text-yellow-200">Welcome</a></li>
+            <li><a href="comment.html" class="hover:text-yellow-200">Comment</a></li>
+            <li><a href="contactus.html" class="hover:text-yellow-200">Contact</a></li>
+            <li><a href="login.html" class="hover:text-yellow-200">Login</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Product Section -->
+<main class="container mx-auto px-4 py-8">
+    <div class="text-center mb-8">
+        <h1 class="text-4xl font-bold text-green-800 mb-2">Our Products</h1>
+        <p class="text-gray-600">Fresh from nature, packed with love.</p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
+            <img src="product1.jpg" alt="Product 1" class="w-full h-48 object-cover rounded-t-md">
+            <h2 class="text-xl font-semibold mt-4">Product 1</h2>
+            <p class="text-green-700 font-bold mt-1">$19.99</p>
+        </div>
+    </div>
+</main>
+
+<!-- About Us -->
+<section class="bg-white py-12">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-gray-800 mb-4">About Us</h2>
+        <p class="text-lg text-gray-600 leading-relaxed mb-6">We are passionate about producing high-quality natural honey products. Our beekeepers care deeply about sustainability and the environment.</p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="bg-gray-100 rounded-lg p-6 shadow">
+                <h3 class="font-semibold text-lg text-gray-800 mb-1">John Doe</h3>
+                <p class="text-gray-600">Lead Developer</p>
+            </div>
+            <div class="bg-gray-100 rounded-lg p-6 shadow">
+                <h3 class="font-semibold text-lg text-gray-800 mb-1">Jane Smith</h3>
+                <p class="text-gray-600">UX Designer</p>
+            </div>
+            <div class="bg-gray-100 rounded-lg p-6 shadow">
+                <h3 class="font-semibold text-lg text-gray-800 mb-1">Alex Johnson</h3>
+                <p class="text-gray-600">Marketing Specialist</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Services Section -->
+<section class="bg-gray-50 py-12">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-gray-800 mb-6">Our Services</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Web Development</h3>
+                <p class="text-gray-600">Custom solutions tailored for your needs.</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Graphic Design</h3>
+                <p class="text-gray-600">Creative branding and marketing materials.</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Digital Marketing</h3>
+                <p class="text-gray-600">Boost your online visibility with strategy.</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">SEO Optimization</h3>
+                <p class="text-gray-600">Rank better and grow your audience organically.</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Mobile Apps</h3>
+                <p class="text-gray-600">Modern apps for Android and iOS platforms.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Us -->
+<section class="bg-white py-12">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold mb-6">Contact Us</h2>
+        <form class="bg-gray-100 p-6 rounded-lg shadow-md">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <label for="name" class="block text-lg font-medium mb-1">Name</label>
+                    <input type="text" id="name" name="name" class="w-full p-2 border rounded">
+                </div>
+                <div>
+                    <label for="email" class="block text-lg font-medium mb-1">Email</label>
+                    <input type="email" id="email" name="email" class="w-full p-2 border rounded">
+                </div>
+            </div>
+            <div class="mt-4">
+                <label for="message" class="block text-lg font-medium mb-1">Message</label>
+                <textarea id="message" name="message" rows="4" class="w-full p-2 border rounded"></textarea>
+            </div>
+            <div class="mt-4">
+                <button type="submit" class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded">Send</button>
+            </div>
+        </form>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="bg-green-700 text-white text-center p-4 mt-8">
+    <p>&copy; 2025 Bee Honey. All rights reserved.</p>
+</footer>
+</body>
+
+</html>

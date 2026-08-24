@@ -1,0 +1,1 @@
+{{__('messages.Bee Honey')}}

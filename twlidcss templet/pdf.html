@@ -1,0 +1,112 @@
+<!-- ✅ صفحة تأكيد الطلب -->
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>تم الطلب بنجاح</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <div class="flex items-center justify-center h-screen">
+    <div class="bg-white p-8 rounded shadow text-center">
+      <h1 class="text-2xl font-bold text-green-600 mb-4">✅ تم تنفيذ الطلب بنجاح!</h1>
+      <p class="text-gray-600 mb-4">شكراً لطلبك من Bee Honey. سيتم التواصل معك قريباً.</p>
+      <a href="shop.html" class="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">🔁 العودة للمتجر</a>
+    </div>
+  </div>
+</body>
+</html>
+
+<!-- ✅ نموذج PDF وهمي -->
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عرض الفاتورة</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-900 p-8">
+  <div class="max-w-3xl mx-auto">
+    <h1 class="text-3xl font-bold mb-4">🧾 Bee Honey - فاتورة الطلب</h1>
+    <div class="mb-4">
+      <p>رقم الطلب: <strong>#1025</strong></p>
+      <p>التاريخ: <strong>2025-06-11</strong></p>
+    </div>
+    <table class="w-full border border-gray-300">
+      <thead class="bg-green-600 text-white">
+        <tr>
+          <th class="p-2 border">المنتج</th>
+          <th class="p-2 border">الكمية</th>
+          <th class="p-2 border">السعر</th>
+          <th class="p-2 border">الإجمالي</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="p-2 border">عسل نقي</td>
+          <td class="p-2 border">2</td>
+          <td class="p-2 border">50 ر.س</td>
+          <td class="p-2 border">100 ر.س</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="text-right mt-4 text-lg font-bold">الإجمالي: 100 ر.س</div>
+  </div>
+</body>
+</html>
+
+<!-- ✅ إرسال الفاتورة بالبريد -->
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>إرسال الفاتورة</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-8">
+  <div class="max-w-md mx-auto bg-white shadow rounded p-6">
+    <h1 class="text-xl font-bold mb-4">📧 إرسال الفاتورة إلى البريد</h1>
+    <form>
+      <label class="block mb-2 font-medium">البريد الإلكتروني</label>
+      <input type="email" class="w-full border px-3 py-2 rounded mb-4" placeholder="example@email.com">
+      <button type="submit" class="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">📤 إرسال الآن</button>
+    </form>
+  </div>
+</body>
+</html>
+
+<!-- ✅ صفحة دفع وهمية -->
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الدفع الإلكتروني</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900 p-8">
+  <div class="max-w-md mx-auto bg-white p-6 rounded shadow">
+    <h1 class="text-2xl font-bold mb-4">💳 معلومات البطاقة</h1>
+    <form>
+      <label class="block mb-2 font-medium">رقم البطاقة</label>
+      <input type="text" class="w-full border rounded px-3 py-2 mb-4" placeholder="0000 1111 2222 3333">
+      <label class="block mb-2 font-medium">الاسم على البطاقة</label>
+      <input type="text" class="w-full border rounded px-3 py-2 mb-4" placeholder="اسمك الكامل">
+      <div class="flex gap-4">
+        <div class="flex-1">
+          <label class="block mb-2 font-medium">الانتهاء</label>
+          <input type="text" class="w-full border rounded px-3 py-2 mb-4" placeholder="MM/YY">
+        </div>
+        <div class="flex-1">
+          <label class="block mb-2 font-medium">CVV</label>
+          <input type="text" class="w-full border rounded px-3 py-2 mb-4" placeholder="123">
+        </div>
+      </div>
+      <button type="submit" class="w-full bg-green-600 text-white py-2 rounded hover:bg-green-700">✅ تأكيد الدفع</button>
+    </form>
+  </div>
+</body>
+</html>

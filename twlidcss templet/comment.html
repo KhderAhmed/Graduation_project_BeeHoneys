@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comment Page</title>
+
+    <!-- Include Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-100">
+
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold text-gray-800 mb-4">Comments</h1>
+
+        <!-- Single Comment -->
+        <div class="bg-white shadow-md rounded-md p-4 mb-4">
+            <div class="flex items-center mb-2">
+                <img src="user-avatar.jpg" alt="User Avatar" class="w-12 h-12 rounded-full mr-4">
+                <div>
+                    <h2 class="text-lg font-bold text-gray-800">John Doe</h2>
+                    <p class="text-sm text-gray-600">Posted on April 17, 2025</p>
+                </div>
+            </div>
+            <p class="text-gray-700">Great content! Keep it up.</p>
+        </div>
+
+        <!-- Add more comments as needed -->
+
+        <!-- Comment Form -->
+        <form class="mt-4">
+            <textarea class="w-full h-24 px-3 py-2 text-gray-700 border rounded-md focus:outline-none focus:ring focus:border-blue-500" placeholder="Write your comment here..."></textarea>
+            <button type="submit" class="mt-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Post Comment</button>
+        </form>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,406 @@
+[
+    {
+        "question_ar": "ما هو العسل؟",
+        "answer_ar": "العسل هو مادة غذائية طبيعية يصنعها النحل من رحيق الأزهار، وهو غني بالسكريات والفيتامينات وله فوائد صحية متعددة.",
+        "question_en": "What is honey?",
+        "answer_en": "Honey is a natural food substance made by bees from flower nectar. It is rich in sugars and vitamins and has multiple health benefits."
+    },
+    {
+        "question_ar": "ما فوائد العسل للجسم؟",
+        "answer_ar": "يساعد العسل على تقوية المناعة، علاج السعال، تهدئة الجهاز الهضمي، وتحسين صحة البشرة.",
+        "question_en": "What are the benefits of honey for the body?",
+        "answer_en": "Honey helps boost immunity, treat coughs, soothe the digestive system, and improve skin health."
+    },
+    {
+        "question_ar": "هل العسل يعالج السعال؟",
+        "answer_ar": "نعم، العسل فعال في تهدئة السعال وخصوصاً عند الأطفال فوق عمر السنة.",
+        "question_en": "Does honey treat cough?",
+        "answer_en": "Yes, honey is effective in soothing cough, especially in children over one year old."
+    },
+    {
+        "question_ar": "هل العسل يرفع المناعة؟",
+        "answer_ar": "نعم، لأنه يحتوي على مضادات أكسدة طبيعية ومركبات مضادة للبكتيريا.",
+        "question_en": "Does honey boost immunity?",
+        "answer_en": "Yes, because it contains natural antioxidants and antibacterial compounds."
+    },
+    {
+        "question_ar": "هل يمكن استخدام العسل في الجروح؟",
+        "answer_ar": "نعم، يُستخدم موضعيًا كمضاد للبكتيريا للمساعدة في شفاء الجروح.",
+        "question_en": "Can honey be used on wounds?",
+        "answer_en": "Yes, it is used topically as an antibacterial agent to help heal wounds."
+    },
+    {
+        "question_ar": "ما فوائد العسل على الريق؟",
+        "answer_ar": "تناول العسل صباحًا على الريق يساعد في تنشيط الجهاز الهضمي وتعزيز الطاقة.",
+        "question_en": "What are the benefits of honey on an empty stomach?",
+        "answer_en": "Taking honey in the morning on an empty stomach helps activate the digestive system and boost energy."
+    },
+    {
+        "question_ar": "هل العسل مفيد للكبد؟",
+        "answer_ar": "نعم، يساعد العسل في دعم وظائف الكبد وتنقيته من السموم.",
+        "question_en": "Is honey beneficial for the liver?",
+        "answer_en": "Yes, honey helps support liver functions and detoxify it."
+    },
+    {
+        "question_ar": "هل العسل مفيد للقولون؟",
+        "answer_ar": "العسل يهدئ التهابات القولون ويعمل كملين طبيعي للمعدة.",
+        "question_en": " ?",
+        "answer_en": "Honey soothes colon inflammations and acts as a natural laxative for the stomach."
+    },
+    {
+        "question_ar": "هل يمكن استخدام العسل لمرضى السكري؟",
+        "answer_ar": "يُنصح بتناوله بحذر وبكميات قليلة وتحت إشراف الطبيب لأنه يحتوي على سكريات.",
+        "question_en": "Can diabetics use honey?",
+        "answer_en": "It is recommended to consume it cautiously, in small amounts, and under doctor supervision because it contains sugars."
+    },
+    {
+        "question_ar": "هل العسل يساعد في علاج فقر الدم؟",
+        "answer_ar": "العسل غني بالحديد ويُساهم في تحسين مستويات الهيموغلوبين في الدم.",
+        "question_en": "Does honey help treat anemia?",
+        "answer_en": "Honey is rich in iron and helps improve hemoglobin levels in the blood."
+    },
+    {
+        "question_ar": "ما وظيفة ملكة النحل؟",
+        "answer_ar": "ملكة النحل تضع البيض وتنتج الفيرمونات التي تنظم حياة الخلية.",
+        "question_en": "What is the role of the queen bee?",
+        "answer_en": "The queen bee lays eggs and produces pheromones that regulate the life of the hive."
+    },
+    {
+        "question_ar": "كم تعيش ملكة النحل؟",
+        "answer_ar": "قد تعيش من 2 إلى 5 سنوات في الظروف الجيدة.",
+        "question_en": "How long does a queen bee live?",
+        "answer_en": "She may live from 2 to 5 years under good conditions."
+    },
+    {
+        "question_ar": "ما وظيفة الشغالات؟",
+        "answer_ar": "جمع الرحيق، العناية بالصغار، تنظيف الخلية، وحمايتها.",
+        "question_en": "What is the role of worker bees?",
+        "answer_en": "Collecting nectar, caring for the young, cleaning the hive, and protecting it."
+    },
+    {
+        "question_ar": "كم تعيش الشغالة؟",
+        "answer_ar": "حوالي 6 أسابيع في مواسم العمل، وقد تعيش أطول في الشتاء.",
+        "question_en": "How long does a worker bee live?",
+        "answer_en": "About 6 weeks during working seasons, and possibly longer in winter."
+    },
+    {
+        "question_ar": "ما هو غذاء الملكات؟",
+        "answer_ar": "غذاء غني بالبروتينات تفرزه الشغالات لتغذية الملكة.",
+        "question_en": "What is royal jelly?",
+        "answer_en": "A protein-rich food secreted by worker bees to feed the queen."
+    },
+    {
+        "question_ar": "ما هو العكبر؟",
+        "answer_ar": "العكبر مادة صمغية يجمعها النحل من لحاء الأشجار ويستخدمها لتعقيم الخلية.",
+        "question_en": "What is propolis?",
+        "answer_en": "A resinous substance collected by bees from tree bark, used to sterilize the hive."
+    },
+    {
+        "question_ar": "كيف يتواصل النحل؟",
+        "answer_ar": "عن طريق الرقص والإشارات الكيميائية مثل الفيرمونات.",
+        "question_en": "How do bees communicate?",
+        "answer_en": "Through dancing and chemical signals such as pheromones."
+    },
+    {
+        "question_ar": "ما وظيفة الذكر؟",
+        "answer_ar": "تلقيح الملكة، ثم يموت مباشرة بعد التلقيح.",
+        "question_en": "What is the role of the drone bee?",
+        "answer_en": "To mate with the queen, then dies immediately after mating."
+    },
+    {
+        "question_ar": "ما هي دورة حياة النحلة؟",
+        "answer_ar": "بيض → يرقة → عذراء → نحلة بالغة.",
+        "question_en": "What is the life cycle of a bee?",
+        "answer_en": "Egg → Larva → Pupa → Adult bee."
+    },
+    {
+        "question_ar": "كيف يبدأ النحال تربية النحل؟",
+        "answer_ar": "بشراء خلية نحل، معدات أساسية، وتعلم الأساسيات من كتب أو دورات.",
+        "question_en": "How does a beekeeper start beekeeping?",
+        "answer_en": "By buying a beehive, basic equipment, and learning fundamentals from books or courses."
+    },
+    {
+        "question_ar": "ما هو عسل السدر؟",
+        "answer_ar": "عسل السدر يُستخرج من شجرة السدر وله طعم مميز وفوائد كبيرة للمناعة والجهاز التنفسي.",
+        "question_en": "What is Sidr honey?",
+        "answer_en": "Sidr honey is extracted from the Sidr tree and has a distinctive taste with great benefits for immunity and respiratory health."
+    },
+    {
+        "question_ar": "ما هو عسل الزعتر؟",
+        "answer_ar": "عسل الزعتر يحتوي على مضادات ميكروبية قوية ويفيد في علاج الالتهابات والحلق.",
+        "question_en": "What is thyme honey?",
+        "answer_en": "Thyme honey contains strong antimicrobial properties and is beneficial for treating infections and sore throat."
+    },
+    {
+        "question_ar": "ما هو عسل الأكاسيا؟",
+        "answer_ar": "عسل الأكاسيا خفيف اللون، طعمه ناعم، ومناسب لمرضى السكري لأنه بطيء الامتصاص.",
+        "question_en": "What is acacia honey?",
+        "answer_en": "Acacia honey is light-colored, has a mild taste, and is suitable for diabetics because it is absorbed slowly."
+    },
+    {
+        "question_ar": "ما هو عسل البرسيم؟",
+        "answer_ar": "عسل البرسيم غني بالفيتامينات ويستخدم لتقوية الجسم وتحسين الهضم.",
+        "question_en": "What is clover honey?",
+        "answer_en": "Clover honey is rich in vitamins and used to strengthen the body and improve digestion."
+    },
+    {
+        "question_ar": "ما الفرق بين أنواع العسل؟",
+        "answer_ar": "الاختلاف يكون في المصدر النباتي، اللون، الطعم، والقيمة الغذائية.",
+        "question_en": "What is the difference between types of honey?",
+        "answer_en": "Differences lie in the floral source, color, taste, and nutritional value."
+    },
+    {
+        "question_ar": "هل لون العسل يدل على جودته؟",
+        "answer_ar": "ليس بالضرورة، اللون يتأثر بالنباتات والبيئة وليس مؤشرًا على الجودة دائماً.",
+        "question_en": "Does the color of honey indicate its quality?",
+        "answer_en": "Not necessarily, color is affected by plants and environment and is not always an indicator of quality."
+    },
+    {
+        "question_ar": "هل العسل مفيد للصدر؟",
+        "answer_ar": "نعم، يساعد على تهدئة الشعب الهوائية وتخفيف البلغم.",
+        "question_en": "Is honey good for the chest?",
+        "answer_en": "Yes, it helps soothe the airways and reduce phlegm."
+    },
+    {
+        "question_ar": "هل العسل يعالج التهابات الحلق؟",
+        "answer_ar": "نعم، يحتوي على خصائص مضادة للبكتيريا تساعد في تخفيف الالتهاب.",
+        "question_en": "Does honey treat throat infections?",
+        "answer_en": "Yes, it contains antibacterial properties that help reduce inflammation."
+    },
+    {
+        "question_ar": "هل يمكن استخدام العسل للعيون؟",
+        "answer_ar": "قد يُستخدم بعد تخفيفه لعلاج الالتهابات، ولكن تحت إشراف طبي فقط.",
+        "question_en": "Can honey be used for the eyes?",
+        "answer_en": "It may be used diluted to treat infections, but only under medical supervision."
+    },
+    {
+        "question_ar": "هل العسل يساهم في خفض الكوليسترول؟",
+        "answer_ar": "نعم، تناول العسل بانتظام يمكن أن يساعد في تقليل الكوليسترول الضار.",
+        "question_en": "Does honey help reduce cholesterol?",
+        "answer_en": "Yes, regular consumption of honey can help lower bad cholesterol."
+    },
+    {
+        "question_ar": "هل العسل يعالج تقرحات الفم؟",
+        "answer_ar": "نعم، له تأثير مهدئ ومضاد للميكروبات داخل الفم.",
+        "question_en": "Does honey treat mouth ulcers?",
+        "answer_en": "Yes, it has soothing and antimicrobial effects inside the mouth."
+    },
+    {
+        "question_ar": "هل العسل مفيد للخصوبة؟",
+        "answer_ar": "يُعتقد أن العسل يساهم في تحسين الصحة الإنجابية خاصة عند الرجال.",
+        "question_en": "Is honey beneficial for fertility?",
+        "answer_en": "Honey is believed to improve reproductive health, especially in men."
+    },
+    {
+        "question_ar": "ما هو مرض الفاروا؟",
+        "answer_ar": "الفاروا طفيلي يلتصق بالنحل ويضعف مناعته وقد يؤدي لانهيار الخلية.",
+        "question_en": "What is Varroa disease?",
+        "answer_en": "Varroa is a parasite that attaches to bees, weakens their immunity, and can cause colony collapse."
+    },
+    {
+        "question_ar": "كيف يتم علاج الفاروا؟",
+        "answer_ar": "بالمتابعة الدورية واستخدام علاجات عضوية أو كيميائية مرخصة مثل حمض الفورميك.",
+        "question_en": "How is Varroa treated?",
+        "answer_en": "By regular monitoring and using licensed organic or chemical treatments like formic acid."
+    },
+    {
+        "question_ar": "ما هو التعفن الأمريكي؟",
+        "answer_ar": "مرض بكتيري يصيب يرقات النحل وهو من أخطر الأمراض التي تصيب الخلايا.",
+        "question_en": "What is American foulbrood?",
+        "answer_en": "A bacterial disease that affects bee larvae and is one of the most serious diseases affecting hives."
+    },
+    {
+        "question_ar": "ما أسباب موت النحل المفاجئ؟",
+        "answer_ar": "أسباب متعددة مثل المبيدات، الأمراض، وسوء التهوية أو نقص الغذاء.",
+        "question_en": "What causes sudden bee death?",
+        "answer_en": "Multiple causes such as pesticides, diseases, poor ventilation, or lack of food."
+    },
+    {
+        "question_ar": "كيف أحافظ على صحة النحل؟",
+        "answer_ar": "بالتغذية الجيدة، تهوية الخلية، النظافة، والتفقد الدوري.",
+        "question_en": "How do I maintain bee health?",
+        "answer_en": "By proper feeding, hive ventilation, cleanliness, and regular inspection."
+    },
+    {
+        "question_ar": "كيف أبدأ مشروع منحل؟",
+        "answer_ar": "ابدأ بعدد قليل من الخلايا، معدات أساسية، ومكان مناسب فيه زهور وماء.",
+        "question_en": "How do I start a beekeeping project?",
+        "answer_en": "Start with a few hives, basic equipment, and a suitable location with flowers and water."
+    },
+    {
+        "question_ar": "كم رأس مال مشروع نحل صغير؟",
+        "answer_ar": "يبدأ من 1000 إلى 3000 دولار تقريباً حسب عدد الخلايا والمعدات.",
+        "question_en": "What is the capital needed for a small beekeeping project?",
+        "answer_en": "It starts from about $1000 to $3000 depending on the number of hives and equipment."
+    },
+    {
+        "question_ar": "هل تربية النحل مجزية مادياً؟",
+        "answer_ar": "نعم، خاصة مع إنتاج العسل، الشمع، وغذاء الملكات، لكن تحتاج صبر وخبرة.",
+        "question_en": "Is beekeeping financially rewarding?",
+        "answer_en": "Yes, especially with the production of honey, wax, and royal jelly, but it requires patience and experience."
+    },
+    {
+        "question_ar": "كم تنتج خلية نحل سنويًا؟",
+        "answer_ar": "بين 5 إلى 20 كيلوغرام عسل حسب البيئة والسلالة.",
+        "question_en": "How much honey does a hive produce annually?",
+        "answer_en": "Between 5 to 20 kilograms of honey depending on the environment and bee breed."
+    },
+    {
+        "question_ar": "هل أحتاج ترخيص لتربية النحل؟",
+        "answer_ar": "في بعض الدول نعم، يُطلب تسجيل أو تصريح من الجهات البيطرية أو الزراعية.",
+        "question_en": "Do I need a license to keep bees?",
+        "answer_en": "In some countries yes, registration or permits are required from veterinary or agricultural authorities."
+    },
+    {
+        "question_ar": "هل يمكن إعطاء العسل للرضع؟",
+        "answer_ar": "لا، العسل ممنوع للأطفال تحت عمر سنة بسبب خطر التسمم البوتوليني.",
+        "question_en": "Can honey be given to infants?",
+        "answer_en": "No, honey is forbidden for children under one year old due to the risk of botulism poisoning."
+    },
+    {
+        "question_ar": "هل العسل يسبب حساسية؟",
+        "answer_ar": "نادرًا، ولكن بعض الأشخاص قد يعانون من رد فعل تحسسي.",
+        "question_en": "Does honey cause allergies?",
+        "answer_en": "Rarely, but some people may experience allergic reactions."
+    },
+    {
+        "question_ar": "هل العسل يفسد؟",
+        "answer_ar": "لا يفسد العسل الطبيعي، لكن قد يتبلور وهذا طبيعي وليس فساداً.",
+        "question_en": "Does honey spoil?",
+        "answer_en": "Natural honey does not spoil, but it may crystallize which is natural and not spoilage."
+    },
+    {
+        "question_ar": "كيف أحفظ العسل؟",
+        "answer_ar": "في مكان بارد وجاف ومظلم وبعيد عن الرطوبة.",
+        "question_en": "How do I store honey?",
+        "answer_en": "In a cool, dry, dark place away from moisture."
+    },
+    {
+        "question_ar": "هل تسخين العسل يفقده الفائدة؟",
+        "answer_ar": "نعم، تسخينه فوق 40°C قد يُفقده بعض الإنزيمات المفيدة.",
+        "question_en": "Does heating honey reduce its benefits?",
+        "answer_en": "Yes, heating above 40°C may destroy some beneficial enzymes."
+    }
+    ,
+    {
+        "question_ar": "ما هو عسل حبة البركة؟",
+        "answer_ar": "عسل حبة البركة يُستخلص من أزهار الحبة السوداء، وهو ممتازة لتعزيز جهاز المناعة وتقوية القلب وتنويع مصادر مضادات الأكسدة.",
+        "question_en": "What is Black Seed honey?",
+        "answer_en": "Black Seed honey is extracted from black cumin flowers. It is excellent for boosting immunity, strengthening the heart, and providing rich antioxidants."
+    },
+    {
+        "question_ar": "ما هو عسل المانوكا؟",
+        "answer_ar": "عسل المانوكا يُنتَج في نيوزيلندا وأستراليا ويتميز بتركيزات عالية جداً من مركب الميثيل جليوكسال المضاد للبكتيريا الشديدة.",
+        "question_en": "What is Manuka honey?",
+        "answer_en": "Manuka honey is produced in New Zealand and Australia and is known for its high concentrations of methylglyoxal, a potent antibacterial compound."
+    },
+    {
+        "question_ar": "ما هي ظاهرة تبلور العسل؟",
+        "answer_ar": "التبلور هو تحول العسل الطبيعي من الحالة السائلة إلى الصلبة نتيجة انفصال الغلوكوز، وهيا ظاهرة طبيعية تؤكد أن العسل خام وغير مغشوش.",
+        "question_en": "What is honey crystallization?",
+        "answer_en": "Crystallization is the natural conversion of honey from liquid to solid due to glucose separation. It is a natural process indicating that the honey is raw and unadulterated."
+    },
+    {
+        "question_ar": "كيف أعيد العسل المتبلور إلى حالته السائلة؟",
+        "answer_ar": "عن طريق وضع وعاء العسل في حمام مائي دافئ بدرجة حرارة لا تتجاوز 40 درجة مئوية مع التقليب الهادئ.",
+        "question_en": "How do I return crystallized honey to its liquid state?",
+        "answer_en": "By placing the honey jar in a warm water bath with temperatures not exceeding 40°C while stirring gently."
+    },
+    {
+        "question_ar": "ما الفرق بين العسل الخام والعسل المعالج؟",
+        "answer_ar": "العسل الخام يستخرج ويصفى فقط بدون تسخين أو بستر، بينما المعالج يتعرض لدرجات حرارة عالية وترشيح دقيق تفقدة بعض الإنزيمات.",
+        "question_en": "What is the difference between raw and processed honey?",
+        "answer_en": "Raw honey is extracted and strained without heating or pasteurization, whereas processed honey undergoes high heat and fine filtration that can destroy some enzymes."
+    },
+    {
+        "question_ar": "ما هو شمع العسل وما هي فوائده؟",
+        "answer_ar": "مادة طبيعية تفرزها غدد الشغالات لبناء الأقراص السداسية، وتستخدم في الصناعات التجميلية والعلاجية وحفظ صحة اللثة عند مضغها.",
+        "question_en": "What is beeswax and what are its benefits?",
+        "answer_en": "A natural substance secreted by worker bees to build hexagonal combs, used in cosmetics, therapeutics, and maintaining gum health when chewed."
+    },
+    {
+        "question_ar": "ما هي حبوب اللقاح وما فائدتها؟",
+        "answer_ar": "حبوب يجمعها النحل من الأزهار، وهي مصدر غني بالبروتينات والأحماض الأمينية وتساعد في زيادة الطاقة وعلاج الإجهاد.",
+        "question_en": "What is bee pollen and its benefit?",
+        "answer_en": "Grains collected by bees from flowers, acting as a rich source of proteins and amino acids that help boost energy and treat fatigue."
+    },
+    {
+        "question_ar": "ما هو سم النحل وكيف يُستخدم؟",
+        "answer_ar": "سائل سائل تفرزه النحلة للدفاع، ويُستخدم في الطب البديل والوخز لتخفيف آلام المفاصل والروماتيزم وتحفيز الجهاز المناعي.",
+        "question_en": "What is bee venom and how is it used?",
+        "answer_en": "A liquid substance secreted by bees for defense, used in alternative medicine and apitherapy to relieve joint and rheumatic pain and stimulate immunity."
+    },
+    {
+        "question_ar": "ما أسباب التطريد عند النحل؟",
+        "answer_ar": "التطريد هو سلوك طبيعي لتكاثر الخلية وتوسعها عند اكتظاظ النحل، حيث تغادر الملكة القديمة مع جزء من الشغالات لبناء خلية جديدة.",
+        "question_en": "What causes bee swarming?",
+        "answer_en": "Swarming is a natural behavior for colony reproduction and expansion when overcrowding occurs, where the old queen leaves with part of the workers to build a new hive."
+    },
+    {
+        "question_ar": "كيف يمكن منع التطريد في الخلية؟",
+        "answer_ar": "عن طريق إضافة عاسلات وتوفير المساحة الكافية، تهوية الخلية، وتقسيم الخلايا القوية يدوياً.",
+        "question_en": "How can swarming be prevented in a hive?",
+        "answer_en": "By adding honey supers to provide enough space, ensuring good hive ventilation, and manually dividing strong colonies."
+    },
+    {
+        "question_ar": "ما هي العاسلة في خلية النحل؟",
+        "answer_ar": "صندوق إضافي يُوضع فوق الخلية التربوية الأساسية لتخزين ما يزيد من العسل دون إزعاج عش الحضنة.",
+        "question_en": "What is a honey super in a beehive?",
+        "answer_en": "An additional box placed above the main brood chamber for storing surplus honey without disturbing the brood nest."
+    },
+    {
+        "question_ar": "ما هي طريقة الكشف التجاري البدائية للكشف عن غش العسل؟",
+        "answer_ar": "اختبار نقطة العسل على المنديل أو الإذابة في الماء، ولكن الفحص المخبري الدقيق هو الوسيلة الموثوقة الوحيدة لضمان الجودة.",
+        "question_en": "What is the common method to detect honey adulteration?",
+        "answer_en": "Honey drop on paper or water dissolution test, but precise laboratory testing is the only fully reliable way to ensure purity."
+    },
+    {
+        "question_ar": "كم عدد الأعين أو العيون التي تملكها النحلة؟",
+        "answer_ar": "تتمتع النحلة بخمس عيون: عينان مركبتان كبيرتان للرؤية العامة، وثلاث عيون بسيطة في أعلى الرأس لضبط الاتجاهات والضوء.",
+        "question_en": "How many eyes does a bee have?",
+        "answer_en": "A bee has five eyes: two large compound eyes for overall vision, and three simple eyes on top of the head to detect light and direction."
+    },
+    {
+        "question_ar": "كم أجنحة تمتلك النحلة؟",
+        "answer_ar": "تمتلك النحلة أربعة أجنحة (زوجان من الأجنحة الغشائية) تتصل ببعضها بواسطة خطاطيف صغيرة أثناء الطيران.",
+        "question_en": "How many wings does a bee have?",
+        "answer_en": "A bee has four wings (two pairs of membranous wings) that hook together during flight."
+    },
+    {
+        "question_ar": "ما هو عسل الحمضيات (الموالح)؟",
+        "answer_ar": "عسل يُنتج من أزهار البرتقال والليمون، يتميز بلونه الفاتح وطعمه الخفيف المنعش ومناسبته للأطفال وعلاج الأرق.",
+        "question_en": "What is citrus honey?",
+        "answer_en": "Honey produced from orange and lemon blossoms, characterized by its light color, mild refreshing taste, and suitability for children and insomnia relief."
+    },
+    {
+        "question_ar": "ما هي التغذية السكرية للنحل ومتى تُستخدم؟",
+        "answer_ar": "محلول مكون من السكر والماء يُقدم للنحل في فترات شح الأزهار أو الشتاء للحفاظ على حياة الطائفة وتجنب مجاعتها.",
+        "question_en": "What is sugar feeding for bees and when is it used?",
+        "answer_en": "A solution of sugar and water provided to bees during flower scarcity or winter to sustain the colony and prevent starvation."
+    },
+    {
+        "question_ar": "هل يؤثر الشتاء على نشاط النحل؟",
+        "answer_ar": "نعم، يتجمع النحل داخل الخلية على شكل تكتل دافئ (عنقود) لتقليل استهلاك الطاقة والحفاظ على حرارة الملكة.",
+        "question_en": "Does winter affect bee activity?",
+        "answer_en": "Yes, bees cluster inside the hive in a warm formation (winter cluster) to minimize energy loss and maintain the queen's temperature."
+    },
+    {
+        "question_ar": "ما هي المسافة التي يقطعها النحل لجمع الرحيق؟",
+        "answer_ar": "تطير النحلة في شعاع يصل إلى 3 إلى 5 كيلومترات حول الخلية للبحث عن الأزهار والرحيق.",
+        "question_en": "How far do bees travel to collect nectar?",
+        "answer_en": "Bees can fly within a radius of 3 to 5 kilometers around the hive searching for flowers and nectar."
+    },
+    {
+        "question_ar": "ما هو التأثير المغذي لعسل حبة البركة على المناعة؟",
+        "answer_ar": "يحتوي على نسب مرتفعة من المواد المضادة للأكسدة التي تدعم الحماية الذاتية للجسم وتقاوم نزلات البرد.",
+        "question_en": "What is the nutritive effect of Black Seed honey on immunity?",
+        "answer_en": "It contains high levels of antioxidants that support the body's defenses and fight seasonal colds."
+    },
+    {
+        "question_ar": "لماذا تموت النحلة الشغالة بعد أن تلدغ الإنسان؟",
+        "answer_ar": "لأن إبرة اللدغ مسننة وتعلق في جلد الإنسان المقاوم، مما يؤدي لتمزق أجزاء من جهازها الهضمي عند محاولة الطيران.",
+        "question_en": "Why does a worker bee die after stinging a human?",
+        "answer_en": "Because its sting is barbed and gets lodged in human skin, causing parts of its digestive tract to tear away when flying off."
+    }
+
+]
