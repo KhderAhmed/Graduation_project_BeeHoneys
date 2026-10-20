@@ -251,9 +251,8 @@ Before running the project, make sure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-
-cd YOUR_REPOSITORY
+git clone https://github.com/KhderAhmed/Graduation_project_BeeHoneys.git
+cd Graduation_project_BeeHoneys
 ```
 
 ### 2. Install PHP Dependencies
